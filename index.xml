@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home page :: My New Hugo Site</title>
+    <link>https://amnesia1997.github.io/index.html</link>
+    <description>this is my home page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2024 15:48:02 +0800</lastBuildDate>
+    <atom:link href="https://amnesia1997.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leetcode Weekly Contest</title>
+      <link>https://amnesia1997.github.io/leetcode-weekly-contest/index.html</link>
+      <pubDate>Mon, 20 May 2024 15:48:02 +0800</pubDate>
+      <guid>https://amnesia1997.github.io/leetcode-weekly-contest/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atcoder Beginner Contest</title>
+      <link>https://amnesia1997.github.io/atcoder-beginner-contest/index.html</link>
+      <pubDate>Mon, 20 May 2024 15:48:01 +0800</pubDate>
+      <guid>https://amnesia1997.github.io/atcoder-beginner-contest/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Underrated Project</title>
+      <link>https://amnesia1997.github.io/an-underrated-project/index.html</link>
+      <pubDate>Mon, 20 May 2024 15:48:00 +0800</pubDate>
+      <guid>https://amnesia1997.github.io/an-underrated-project/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>实验室学习记录</title>
+      <link>https://amnesia1997.github.io/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/index.html</link>
+      <pubDate>Mon, 20 May 2024 15:47:05 +0800</pubDate>
+      <guid>https://amnesia1997.github.io/%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Others</title>
+      <link>https://amnesia1997.github.io/others/index.html</link>
+      <pubDate>Mon, 20 May 2024 15:47:03 +0800</pubDate>
+      <guid>https://amnesia1997.github.io/others/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
