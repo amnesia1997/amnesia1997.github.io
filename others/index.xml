@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Others :: My New Hugo Site</title>
-    <link>https://amnesia1997.github.io/others/index.html</link>
+    <title>Others    </title>
+    <link>http://localhost:1313/others/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://amnesia1997.github.io/others/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/others/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
